@@ -8,7 +8,8 @@ A structured collection of Data Structures and Algorithms problems solved in Jav
 DSA/
 └── Basics/
     ├── EvenOdd.java      # Check if a number is even or odd
-    └── LeapYear.java     # Check if a year is a leap year
+    ├── LeapYear.java     # Check if a year is a leap year
+    └── Table.java        # Print multiplication table of a number
 ```
 
 ## 🛠️ Language
