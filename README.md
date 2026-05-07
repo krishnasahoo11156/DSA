@@ -41,24 +41,24 @@
 
 | # | Module | Topic | Status | Files |
 |:-:|:-------|:-------|:------:|:-----:|
-| 01 | `01-flow-of-program` | 🌊 Flow of Program | 🟡 In Progress | — |
-| 02 | `02-first-java` | ☕ First Java | 🟡 In Progress | — |
-| 03 | `03-conditionals-loops` | 🔁 Conditionals & Loops | 🟡 In Progress | — |
-| 04 | `04-functions` | ⚙️ Functions | ⚪ Not Started | — |
-| 05 | `05-arrays` | 📦 Arrays | ⚪ Not Started | — |
-| 06 | `06-searching` | 🔍 Searching | ⚪ Not Started | — |
-| 07 | `07-sorting` | 🔃 Sorting | ⚪ Not Started | — |
-| 08 | `08-strings` | 🔤 Strings | ⚪ Not Started | — |
-| 09 | `09-patterns` | 🔷 Patterns | ⚪ Not Started | — |
-| 10 | `10-recursion` | 🌀 Recursion | ⚪ Not Started | — |
-| 11 | `11-bitwise` | 💡 Bitwise Ops | ⚪ Not Started | — |
-| 12 | `12-math` | ➗ Math | ⚪ Not Started | — |
-| 13 | `13-complexities` | 📈 Complexities | ⚪ Not Started | — |
-| 14 | `14-oop` | 🏛️ OOP | ⚪ Not Started | — |
-| 15 | `15-linkedlist` | 🔗 Linked List | ⚪ Not Started | — |
-| 16 | `16-stack-queue` | 🗂️ Stack & Queue | ⚪ Not Started | — |
-| 17 | `17-trees` | 🌳 Trees | ⚪ Not Started | — |
-| 18 | `18-heaps` | ⛰️ Heaps | ⚪ Not Started | — |
+| 01 | `flow-of-program` | 🌊 Flow of Program | 🟡 In Progress | 5 |
+| 02 | `first-java` | ☕ First Java | 🟡 In Progress | 2 |
+| 03 | `conditionals-loops` | 🔁 Conditionals & Loops | ⚪ Not Started | — |
+| 04 | `functions` | ⚙️ Functions | ⚪ Not Started | — |
+| 05 | `arrays` | 📦 Arrays | ⚪ Not Started | — |
+| 06 | `searching` | 🔍 Searching | ⚪ Not Started | — |
+| 07 | `sorting` | 🔃 Sorting | ⚪ Not Started | — |
+| 08 | `strings` | 🔤 Strings | ⚪ Not Started | — |
+| 09 | `patterns` | 🔷 Patterns | ⚪ Not Started | — |
+| 10 | `recursion` | 🌀 Recursion | ⚪ Not Started | — |
+| 11 | `bitwise` | 💡 Bitwise Ops | ⚪ Not Started | — |
+| 12 | `math` | ➗ Math | ⚪ Not Started | — |
+| 13 | `complexities` | 📈 Complexities | ⚪ Not Started | — |
+| 14 | `oop` | 🏛️ OOP | ⚪ Not Started | — |
+| 15 | `linkedlist` | 🔗 Linked List | ⚪ Not Started | — |
+| 16 | `stack-queue` | 🗂️ Stack & Queue | ⚪ Not Started | — |
+| 17 | `trees` | 🌳 Trees | ⚪ Not Started | — |
+| 18 | `heaps` | ⛰️ Heaps | ⚪ Not Started | — |
 
 > **Legend:** 🟢 Done &nbsp;|&nbsp; 🟡 In Progress &nbsp;|&nbsp; ⚪ Not Started
 
@@ -69,30 +69,21 @@
 ```text
 DSA/
 ├── README.md
-├── Basics/                         ← 01, 02, 03
-│   ├── EvenOdd.java                # Check even or odd
-│   ├── LeapYear.java               # Leap year checker
-│   ├── Table.java                  # Multiplication table
-│   ├── HCFandLCM.java              # HCF & LCM calculator
-│   ├── Sum.java                    # Running sum until 'x'
-│   └── Scrapfile.java              # Quick experiments / scratchpad
+├── first-java/                     # Module 02
+│   ├── EvenOdd.java                # Even or odd checker
+│   └── Greeting.java               # Name-based greeting
 │
-├── (upcoming modules...)
-│   ├── Functions/                  ← 04
-│   ├── Arrays/                     ← 05
-│   ├── Searching/                  ← 06
-│   ├── Sorting/                    ← 07
-│   ├── Strings/                    ← 08
-│   ├── Patterns/                   ← 09
-│   ├── Recursion/                  ← 10
-│   ├── Bitwise/                    ← 11
-│   ├── Math/                       ← 12
-│   ├── Complexities/               ← 13
-│   ├── OOP/                        ← 14
-│   ├── LinkedList/                 ← 15
-│   ├── StackQueue/                 ← 16
-│   ├── Trees/                      ← 17
-│   └── Heaps/                      ← 18
+├── flow-of-program/                # Module 01
+│   ├── HCFandLCM.java              # HCF & LCM calculator
+│   ├── LeapYear.java               # Leap year validator
+│   ├── Table.java                  # Multiplication table generator
+│   ├── Sum.java                    # Keep taking inputs until 'x'
+│   └── Scrapfile.java              # Logic playground
+│
+└── (upcoming modules...)
+    ├── conditionals-loops/         # Module 03
+    ├── functions/                  # Module 04
+    └── ...
 ```
 
 ---
@@ -100,8 +91,8 @@ DSA/
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Java Development Kit (JDK) 17 or higher
-- Any Java-compatible IDE (VS Code, IntelliJ, etc.)
+- Java Development Kit (JDK) 17 or higher (Recommended: JDK 21+)
+- VS Code or any Java-friendly IDE
 
 ### Clone & Run
 
@@ -110,11 +101,11 @@ DSA/
 git clone https://github.com/krishnasahoo11156/DSA.git
 cd DSA
 
-# 2. Compile a file
-javac DSA/Basics/HCFandLCM.java
+# 2. Compile a file (Example: Table.java)
+javac flow-of-program/Table.java
 
-# 3. Run it (note the package prefix)
-java Basics.HCFandLCM
+# 3. Run it
+java flow-of-program/Table
 ```
 
 ---
@@ -127,9 +118,9 @@ java Basics.HCFandLCM
 |:-------|:-----:|
 | 📦 Total Modules | 18 |
 | ✅ Completed | 0 |
-| 🟡 In Progress | 3 |
-| ⚪ Not Started | 15 |
-| 🧩 Files Written | 6 |
+| 🟡 In Progress | 2 |
+| ⚪ Not Started | 16 |
+| 🧩 Total Java Files | 7 |
 
 </div>
 
