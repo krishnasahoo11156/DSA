@@ -42,7 +42,7 @@
 | # | Module | Topic | Status | Files |
 |:-:|:-------|:-------|:------:|:-----:|
 | 01 | `flow-of-program` | 🌊 Flow of Program | 🟡 In Progress | 5 |
-| 02 | `first-java` | ☕ First Java | 🟡 In Progress | 2 |
+| 02 | `first-java` | ☕ First Java | 🟡 In Progress | 4 |
 | 03 | `conditionals-loops` | 🔁 Conditionals & Loops | ⚪ Not Started | — |
 | 04 | `functions` | ⚙️ Functions | ⚪ Not Started | — |
 | 05 | `arrays` | 📦 Arrays | ⚪ Not Started | — |
@@ -70,8 +70,10 @@
 DSA/
 ├── README.md
 ├── first-java/                     # Module 02
+│   ├── Calculator.java             # Basic arithmetic operations (+, -, *, /)
 │   ├── EvenOdd.java                # Even or odd checker
-│   └── Greeting.java               # Name-based greeting
+│   ├── Greeting.java               # Name-based greeting
+│   └── SimpleInterest.java         # Simple interest calculator
 │
 ├── flow-of-program/                # Module 01
 │   ├── HCFandLCM.java              # HCF & LCM calculator
@@ -120,7 +122,7 @@ java flow-of-program/Table
 | ✅ Completed | 0 |
 | 🟡 In Progress | 2 |
 | ⚪ Not Started | 16 |
-| 🧩 Total Java Files | 7 |
+| 🧩 Total Java Files | 9 |
 
 </div>
 
