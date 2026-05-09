@@ -41,7 +41,7 @@
 
 | # | Module | Topic | Status | Files |
 |:-:|:-------|:-------|:------:|:-----:|
-| 01 | `flow-of-program` | 🌊 Flow of Program | 🟡 In Progress | 5 |
+| 01 | `flow-of-program` | 🌊 Flow of Program | 🟢 Done | 5 |
 | 02 | `first-java` | ☕ First Java | 🟡 In Progress | 4 |
 | 03 | `conditionals-loops` | 🔁 Conditionals & Loops | ⚪ Not Started | — |
 | 04 | `functions` | ⚙️ Functions | ⚪ Not Started | — |
@@ -119,8 +119,8 @@ java flow-of-program/Table
 | Metric | Value |
 |:-------|:-----:|
 | 📦 Total Modules | 18 |
-| ✅ Completed | 0 |
-| 🟡 In Progress | 2 |
+| ✅ Completed | 1 |
+| 🟡 In Progress | 1 |
 | ⚪ Not Started | 16 |
 | 🧩 Total Java Files | 9 |
 
