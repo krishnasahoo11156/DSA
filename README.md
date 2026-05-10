@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ░░░ HEADER — venom type creates organic liquid blob edge (very rare) ░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:0a0a2e,100:000814&height=250&section=header&text=DSA%20%F0%9F%A7%A0%20Mastery&fontSize=65&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=%E2%98%95%20Java%20Edition%20%E2%80%94%20From%20Zero%20to%20Hero&descSize=22&descAlignY=62&descColor=ffffff&stroke=00d4ff&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6C63FF,30:C850C0,60:FF6B9D,100:FF8C42&height=260&section=header&text=DSA%20%F0%9F%A7%A0%20Mastery&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=%E2%98%95%20Java%20Edition%20%E2%80%94%20From%20Zero%20to%20Hero&descSize=22&descAlignY=62&descColor=fff0f0&stroke=ffffff&strokeWidth=2" width="100%"/>
 
 <!-- ░░░ GROUNDBREAKING TRICK: Stack 4 typing SVGs to simulate a live IDE terminal ░░░ -->
 <!-- Each SVG is a "line" of the terminal, creating a frame-by-frame coding illusion -->
@@ -386,7 +386,7 @@ java -cp first-java CurrencyConverter
 <div align="center">
 
 <!-- Footer venom wave — matching header style -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000814,50:0a0a2e,100:0d0d0d&height=150&section=footer&fontColor=00d4ff&stroke=00d4ff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF8C42,30:FF6B9D,60:C850C0,100:6C63FF&height=150&section=footer&fontColor=ffffff&stroke=ffffff&strokeWidth=1" width="100%"/>
 
 **Made with ❤️ and lots of ☕ · Krishna Sahoo · 2025**
 
