@@ -4,17 +4,17 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:6C63FF,30:C850C0,60:FF6B9D,100:FF8C42&height=280&section=header&text=DSA%20%F0%9F%A7%A0%20Mastery&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=%E2%98%95%20Java%20Edition%20%E2%80%94%20From%20Zero%20to%20Hero&descSize=22&descAlignY=62&descColor=fff0f0&stroke=ffffff&strokeWidth=2" width="100%"/>
 
 <!-- ░░░ Animated IDE Terminal Block ░░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=99999&color=555555&center=true&vCenter=true&width=700&height=20&lines=┌──────────────────────────────────────────────────┐" alt="border-top"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=99999&color=555555&center=true&vCenter=true&width=700&height=20&lines=┌──────────────────────────────────────────────────┐&v=2" alt="border-top"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=99999&color=6A9955&center=true&vCenter=true&width=700&height=20&lines=│%20%20%20%20//%20%20Krishna's%20DSA%20Journey%20—%20Java%20Edition%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20│" alt="comment"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=99999&color=6A9955&center=true&vCenter=true&width=700&height=20&lines=│%20%20%20%20//%20%20Krishna's%20DSA%20Journey%20—%20Java%20Edition%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20│&v=2" alt="comment"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=2000&color=569CD6&center=true&vCenter=true&width=700&height=20&lines=│%20%20%20%20public%20class%20DSA%20%7B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20│;│%20%20%20%20public%20class%20Mastery%20%7B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20│" alt="class-def"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=2000&color=569CD6&center=true&vCenter=true&width=700&height=20&lines=│%20%20%20%20public%20class%20DSA%20%7B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20│;│%20%20%20%20public%20class%20Mastery%20%7B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20│&v=2" alt="class-def"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=3500&color=DCDCAA&center=true&vCenter=true&width=700&height=20&lines=│%20%20%20%20%20%20%20%20public%20static%20void%20main(String[]%20args)%20%7B%20%20%20%20%20%20%20%20%20%20%20%20%20%20│;│%20%20%20%20%20%20%20%20static%20int%20modules%20%3D%2018%3B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20│" alt="method"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=3500&color=DCDCAA&center=true&vCenter=true&width=700&height=20&lines=│%20%20%20%20%20%20%20%20public%20static%20void%20main(String[]%20args)%20%7B%20%20%20%20%20%20%20%20%20%20%20%20%20%20│;│%20%20%20%20%20%20%20%20static%20int%20modules%20%3D%2018%3B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20│&v=2" alt="method"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=5000&color=CE9178&center=true&vCenter=true&width=700&height=20&lines=│%20%20%20%20%20%20%20%20%20%20%20%20System.out.println(%22Journey+starts+NOW!%22)%3B%20%20%20%20%20%20│;│%20%20%20%20%20%20%20%20%20%20%20%20System.out.println(%22Modules+done:+2%2F18%22)%3B%20%20%20%20%20%20%20%20%20%20│" alt="print"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=5000&color=CE9178&center=true&vCenter=true&width=700&height=20&lines=│%20%20%20%20%20%20%20%20%20%20%20%20System.out.println(%22Journey+starts+NOW!%22)%3B%20%20%20%20%20%20│;│%20%20%20%20%20%20%20%20%20%20%20%20System.out.println(%22Modules+done:+2%2F18%22)%3B%20%20%20%20%20%20%20%20%20%20│&v=2" alt="print"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=555555&center=true&vCenter=true&width=700&height=20&lines=└──────────────────────────────────────────────────┘" alt="border-bottom"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=555555&center=true&vCenter=true&width=700&height=20&lines=└──────────────────────────────────────────────────┘&v=2" alt="border-bottom"/>
 
 <br/>
 
@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1400&color=FFD700&center=true&vCenter=true&width=750&lines=🟢+Module+01+—+Flow+of+Program+→+COMPLETE+✅;🔄+Module+02+—+First+Java+→+7+Programs+Done!+🔥;⏭️+Module+03+—+Conditionals+%26+Loops+→+NEXT+UP...;🧠+18+Modules+Total+•+12+Java+Files+Written+•+0+Regrets;☕+Powered+by+JDK+25+and+way+too+much+coffee" alt="Journey ticker" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1400&color=FFD700&center=true&vCenter=true&width=750&lines=🟢+Module+01+—+Flow+of+Program+→+COMPLETE+✅;🔄+Module+02+—+First+Java+→+7+Programs+Done!+🔥;⏭️+Module+03+—+Conditionals+%26+Loops+→+NEXT+UP...;🧠+18+Modules+Total+•+12+Java+Files+Written+•+0+Regrets;☕+Powered+by+JDK+25+and+way+too+much+coffee&v=2" alt="Journey ticker" />
 
 </div>
 
@@ -55,22 +55,22 @@
 <div align="center">
 
 <!-- Concept spotlight — cycles through key Java concepts learned -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=🔢+Variables+%26+Data+Types;🔀+if+%2F+else-if+%2F+else;🔁+Loops+%26+Iteration+coming+up...;📐+Arithmetic+%26+Modulus+Operators;🧮+Scanner+%26+User+Input;🌀+Fibonacci+—+recursion+preview;📊+Simple+Interest+Formula;🏆+Comparison+%26+Branching" alt="Concepts carousel" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=🔢+Variables+%26+Data+Types;🔀+if+%2F+else-if+%2F+else;🔁+Loops+%26+Iteration+coming+up...;📐+Arithmetic+%26+Modulus+Operators;🧮+Scanner+%26+User+Input;🌀+Fibonacci+—+recursion+preview;📊+Simple+Interest+Formula;🏆+Comparison+%26+Branching&v=2" alt="Concepts carousel" />
 
 <br/><br/>
 
 <!-- Animated skill level meter -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&pause=99999&color=6A9955&center=true&vCenter=true&width=650&height=22&lines=//+Skill+Meter+—+Module+Progress" alt="label"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&pause=99999&color=6A9955&center=true&vCenter=true&width=650&height=22&lines=//+Skill+Meter+—+Module+Progress&v=2" alt="label"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=99999&color=39FF14&center=true&vCenter=true&width=650&height=22&lines=Java+Syntax+%20%20%20%20%20▓▓▓▓▓▓▓▓░░%20%2080%25" alt="syntax"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=99999&color=39FF14&center=true&vCenter=true&width=650&height=22&lines=Java+Syntax+%20%20%20%20%20▓▓▓▓▓▓▓▓░░%20%2080%25&v=2" alt="syntax"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=99999&color=FFD700&center=true&vCenter=true&width=650&height=22&lines=I%2FO+%26+Scanner+%20%20%20%20▓▓▓▓▓▓▓▓▓░%20%2090%25" alt="io"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=99999&color=FFD700&center=true&vCenter=true&width=650&height=22&lines=I%2FO+%26+Scanner+%20%20%20%20▓▓▓▓▓▓▓▓▓░%20%2090%25&v=2" alt="io"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=99999&color=FF6B9D&center=true&vCenter=true&width=650&height=22&lines=Conditionals+%20%20%20%20%20▓▓▓▓▓▓▓░░░%20%2070%25" alt="conditionals"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=99999&color=FF6B9D&center=true&vCenter=true&width=650&height=22&lines=Conditionals+%20%20%20%20%20▓▓▓▓▓▓▓░░░%20%2070%25&v=2" alt="conditionals"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=99999&color=C850C0&center=true&vCenter=true&width=650&height=22&lines=Loops+%20%20%20%20%20%20%20%20%20%20%20%20▓▓▓░░░░░░░%20%2030%25+→+coming+soon!" alt="loops"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=99999&color=C850C0&center=true&vCenter=true&width=650&height=22&lines=Loops+%20%20%20%20%20%20%20%20%20%20%20%20▓▓▓░░░░░░░%20%2030%25+→+coming+soon!&v=2" alt="loops"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=99999&color=6C63FF&center=true&vCenter=true&width=650&height=22&lines=Recursion+%20%20%20%20%20%20%20▓░░░░░░░░░%20%2010%25+→+preview+only" alt="recursion"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=99999&color=6C63FF&center=true&vCenter=true&width=650&height=22&lines=Recursion+%20%20%20%20%20%20%20▓░░░░░░░░░%20%2010%25+→+preview+only&v=2" alt="recursion"/>
 
 </div>
 
@@ -144,7 +144,7 @@
 <div align="center">
 
 <!-- Simulated terminal prompt typing different program names -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1600&color=39FF14&center=true&vCenter=true&width=700&lines=~%24+javac+Calculator.java+%26%26+java+Calculator+✔;~%24+javac+CurrencyConverter.java+%26%26+java+CurrencyConverter+✔;~%24+javac+EvenOdd.java+%26%26+java+EvenOdd+✔;~%24+javac+Fibonacii.java+%26%26+java+Fibonacii+✔;~%24+javac+LargestNumber.java+%26%26+java+LargestNumber+✔;~%24+javac+SimpleInterest.java+%26%26+java+SimpleInterest+✔;~%24+javac+Greeting.java+%26%26+java+Greeting+✔;~%24+echo+'All+7+programs+compiled+successfully!+🎉'" alt="Terminal sim" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1600&color=39FF14&center=true&vCenter=true&width=700&lines=~%24+javac+Calculator.java+%26%26+java+Calculator+✔;~%24+javac+CurrencyConverter.java+%26%26+java+CurrencyConverter+✔;~%24+javac+EvenOdd.java+%26%26+java+EvenOdd+✔;~%24+javac+Fibonacii.java+%26%26+java+Fibonacii+✔;~%24+javac+LargestNumber.java+%26%26+java+LargestNumber+✔;~%24+javac+SimpleInterest.java+%26%26+java+SimpleInterest+✔;~%24+javac+Greeting.java+%26%26+java+Greeting+✔;~%24+echo+'All+7+programs+compiled+successfully!+🎉'&v=2" alt="Terminal sim" />
 
 </div>
 
@@ -297,7 +297,7 @@ The simple interest is     : 1500.0
 <div align="center">
 
 <!-- Warp-speed clone animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1800&color=FF6B9D&center=true&vCenter=true&width=700&lines=⚡+Ready+to+clone+%26+run%3F;git+clone+https%3A%2F%2Fgithub.com%2Fkrishnasahoo11156%2FDSA.git;cd+DSA+%26%26+javac+first-java%2FFibonacii.java;java+-cp+first-java+Fibonacii+→+0+1+1+2+3+5+8+13...+🎉" alt="Clone animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1800&color=FF6B9D&center=true&vCenter=true&width=700&lines=⚡+Ready+to+clone+%26+run%3F;git+clone+https%3A%2F%2Fgithub.com%2Fkrishnasahoo11156%2FDSA.git;cd+DSA+%26%26+javac+first-java%2FFibonacii.java;java+-cp+first-java+Fibonacii+→+0+1+1+2+3+5+8+13...+🎉&v=2" alt="Clone animation" />
 
 </div>
 
@@ -340,17 +340,17 @@ java -cp first-java Fibonacii
 
 <!-- GitHub Stats -->
 <a href="https://github.com/krishnasahoo11156">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=krishnasahoo11156&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=FFD700&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-stats-alpha.vercel.app/api?username=krishnasahoo11156&cc=0d1117&tc=00d4ff&ic=FFD700&bc=0d1117" alt="GitHub Stats" />
 </a>
 &nbsp;
 <a href="https://github.com/krishnasahoo11156">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasahoo11156&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasahoo11156&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6&v=2" alt="Top Languages" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/krishnasahoo11156">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnasahoo11156&theme=tokyonight&hide_border=true&fire=FFD700&currStreakLabel=00d4ff&ring=00d4ff&sideLabels=00d4ff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=krishnasahoo11156&theme=tokyonight&hide_border=true&fire=FFD700&currStreakLabel=00d4ff&ring=00d4ff&sideLabels=00d4ff" alt="GitHub Streak" />
 </a>
 
 </div>
@@ -380,7 +380,7 @@ java -cp first-java Fibonacii
 <div align="center">
 
 <!-- Animated phase reveal -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&pause=1500&color=C850C0&center=true&vCenter=true&width=700&lines=PHASE+1+✅→🔄+Foundations+│+Flow+·+Syntax+·+Types+·+I%2FO;PHASE+2+⏭️+%20%20%20%20%20%20%20Logic+%20%20%20%20%20%20%20│+Conditions+·+Loops+·+Methods;PHASE+3+⬜+%20%20%20%20%20%20%20Core+DSA+%20%20%20%20│+Arrays+·+Search+·+Sort+·+Str;PHASE+4+⬜+%20%20%20%20%20%20%20Advanced+%20%20%20%20│+Recursion+·+Bitwise+·+Math;PHASE+5+⬜+%20%20%20%20%20%20%20OOP+%20%20%20%20%20%20%20%20%20│+Classes+·+Inheritance+·+DS;PHASE+6+⬜+%20%20%20%20%20%20%20Trees%26Heaps+│+BST+·+AVL+·+Heaps+·+PQ" alt="Learning phases" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&pause=1500&color=C850C0&center=true&vCenter=true&width=700&lines=PHASE+1+✅→🔄+Foundations+│+Flow+·+Syntax+·+Types+·+I%2FO;PHASE+2+⏭️+%20%20%20%20%20%20%20Logic+%20%20%20%20%20%20%20│+Conditions+·+Loops+·+Methods;PHASE+3+⬜+%20%20%20%20%20%20%20Core+DSA+%20%20%20%20│+Arrays+·+Search+·+Sort+·+Str;PHASE+4+⬜+%20%20%20%20%20%20%20Advanced+%20%20%20%20│+Recursion+·+Bitwise+·+Math;PHASE+5+⬜+%20%20%20%20%20%20%20OOP+%20%20%20%20%20%20%20%20%20│+Classes+·+Inheritance+·+DS;PHASE+6+⬜+%20%20%20%20%20%20%20Trees%26Heaps+│+BST+·+AVL+·+Heaps+·+PQ&v=2" alt="Learning phases" />
 
 </div>
 
@@ -401,7 +401,7 @@ java -cp first-java Fibonacii
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Krishna+Sahoo;Java+learner+•+DSA+grinder+•+Future+SWE;Building+consistency%2C+one+commit+at+a+time+💪;7+programs+written+•+12+files+total+•+∞+to+go!" alt="Author intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Krishna+Sahoo;Java+learner+•+DSA+grinder+•+Future+SWE;Building+consistency%2C+one+commit+at+a+time+💪;7+programs+written+•+12+files+total+•+∞+to+go!&v=2" alt="Author intro" />
 
 <br/>
 
