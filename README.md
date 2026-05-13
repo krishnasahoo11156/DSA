@@ -83,9 +83,9 @@
 | # | Module | Topic | Status | Files |
 |:---:|:-------|:------|:------:|:-----:|
 | `01` | `flow-of-program` | 🌊 Flow of Program | ✅ **Done** | 5 |
-| `02` | `first-java` | ☕ First Java | 🔄 **In Progress** | 9 |
-| `03` | `conditionals-loops` | 🔁 Conditionals & Loops | ⏭️ **Next Up** | — |
-| `04` | `functions` | ⚙️ Functions | ⬜ Not Started | — |
+| `02` | `first-java` | ☕ First Java | ✅ **Done** | 9 |
+| `03` | `conditionals-loops` | 🔁 Conditionals & Loops | 🔄 **In Progress** | — |
+| `04` | `functions` | ⚙️ Functions | ⏭️ **Next Up** | — |
 | `05` | `arrays` | 📦 Arrays | ⬜ Not Started | — |
 | `06` | `searching` | 🔍 Searching | ⬜ Not Started | — |
 | `07` | `sorting` | 🔃 Sorting | ⬜ Not Started | — |
