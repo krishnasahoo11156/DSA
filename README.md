@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1400&color=FFD700&center=true&vCenter=true&width=750&lines=🟢+Module+01+—+Flow+of+Program+→+COMPLETE+✅;🔄+Module+02+—+First+Java+→+7+Programs+Done!+🔥;⏭️+Module+03+—+Conditionals+%26+Loops+→+NEXT+UP...;🧠+18+Modules+Total+•+12+Java+Files+Written+•+0+Regrets;☕+Powered+by+JDK+25+and+way+too+much+coffee&v=2" alt="Journey ticker" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1400&color=FFD700&center=true&vCenter=true&width=750&lines=🟢+Module+01+—+Flow+of+Program+→+COMPLETE+✅;🔄+Module+02+—+First+Java+→+9+Programs+Done!+🔥;⏭️+Module+03+—+Conditionals+%26+Loops+→+NEXT+UP...;🧠+18+Modules+Total+•+14+Java+Files+Written+•+0+Regrets;☕+Powered+by+JDK+25+and+way+too+much+coffee&v=2" alt="Journey ticker" />
 
 </div>
 
@@ -83,7 +83,7 @@
 | # | Module | Topic | Status | Files |
 |:---:|:-------|:------|:------:|:-----:|
 | `01` | `flow-of-program` | 🌊 Flow of Program | ✅ **Done** | 5 |
-| `02` | `first-java` | ☕ First Java | 🔄 **In Progress** | 7 |
+| `02` | `first-java` | ☕ First Java | 🔄 **In Progress** | 9 |
 | `03` | `conditionals-loops` | 🔁 Conditionals & Loops | ⏭️ **Next Up** | — |
 | `04` | `functions` | ⚙️ Functions | ⬜ Not Started | — |
 | `05` | `arrays` | 📦 Arrays | ⬜ Not Started | — |
@@ -115,12 +115,14 @@
 ├── 📄 README.md
 │
 ├── 📂 first-java/                     ← 📍 Module 02 — ACTIVE 🔄
+│   ├── ☕ Armstrong.java              # Armstrong numbers in a range 🔢
 │   ├── ☕ Calculator.java             # Arithmetic: + − × ÷  via if-else
 │   ├── ☕ CurrencyConverter.java      # INR → USD  (÷ 88 exchange rate)
 │   ├── ☕ EvenOdd.java                # Even / Odd check  (num % 2)
 │   ├── ☕ Fibonacii.java              # Fibonacci sequence generator 🌀
 │   ├── ☕ Greeting.java               # Personalised welcome greeting
 │   ├── ☕ LargestNumber.java          # Largest of 2 numbers  (if-else)
+│   ├── ☕ Palindrome.java             # Palindrome checker (two-pointer) 🔁
 │   └── ☕ SimpleInterest.java         # SI = (P × R × T) / 100
 │
 ├── 📂 flow-of-program/                ← ✅ Module 01 — COMPLETE
@@ -139,12 +141,12 @@
 
 ---
 
-## 🔍 Module 02 — First Java: Deep Dive
+## 🔍 Module 02 — First Java: Deep Dive (9 Programs)
 
 <div align="center">
 
 <!-- Simulated terminal prompt typing different program names -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1600&color=39FF14&center=true&vCenter=true&width=700&lines=~%24+javac+Calculator.java+%26%26+java+Calculator+✔;~%24+javac+CurrencyConverter.java+%26%26+java+CurrencyConverter+✔;~%24+javac+EvenOdd.java+%26%26+java+EvenOdd+✔;~%24+javac+Fibonacii.java+%26%26+java+Fibonacii+✔;~%24+javac+LargestNumber.java+%26%26+java+LargestNumber+✔;~%24+javac+SimpleInterest.java+%26%26+java+SimpleInterest+✔;~%24+javac+Greeting.java+%26%26+java+Greeting+✔;~%24+echo+'All+7+programs+compiled+successfully!+🎉'&v=2" alt="Terminal sim" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1600&color=39FF14&center=true&vCenter=true&width=700&lines=~%24+javac+Armstrong.java+%26%26+java+Armstrong+✔;~%24+javac+Calculator.java+%26%26+java+Calculator+✔;~%24+javac+CurrencyConverter.java+%26%26+java+CurrencyConverter+✔;~%24+javac+EvenOdd.java+%26%26+java+EvenOdd+✔;~%24+javac+Fibonacii.java+%26%26+java+Fibonacii+✔;~%24+javac+LargestNumber.java+%26%26+java+LargestNumber+✔;~%24+javac+Palindrome.java+%26%26+java+Palindrome+✔;~%24+javac+SimpleInterest.java+%26%26+java+SimpleInterest+✔;~%24+javac+Greeting.java+%26%26+java+Greeting+✔;~%24+echo+'All+9+programs+compiled+successfully!+🎉'&v=2" alt="Terminal sim" />
 
 </div>
 
@@ -290,6 +292,65 @@ The simple interest is     : 1500.0
 
 </details>
 
+<details>
+<summary><b>🔢 Armstrong.java — Armstrong numbers in a range</b></summary>
+<br/>
+
+> **Concept:** `Math.pow()`, digit extraction, `String.valueOf().length()` for digit count
+
+```java
+for (int num = start; num <= end; num++) {
+    int digits = String.valueOf(num).length();
+    int temp = num, sum = 0;
+    while (temp > 0) {
+        int digit = temp % 10;
+        sum += Math.pow(digit, digits);
+        temp /= 10;
+    }
+    if (sum == num) System.out.println(num);
+}
+```
+
+```
+Enter starting number: 1
+Enter ending number: 500
+Armstrong numbers between 1 and 500 are:
+1
+153
+370
+371
+407
+```
+
+</details>
+
+<details>
+<summary><b>🔁 Palindrome.java — Is it a Palindrome?</b></summary>
+<br/>
+
+> **Concept:** Two-pointer technique on a `String`
+
+```java
+String n = sc.nextLine().toLowerCase();
+int left = 0, right = n.length() - 1;
+boolean ans = true;
+while (left < right) {
+    if (n.charAt(left) != n.charAt(right)) { ans = false; break; }
+    left++; right--;
+}
+System.out.println(ans ? "The String is a palindrome" : "The String is not a palindrome");
+```
+
+```
+Enter the string : Racecar
+The String is a palindrome
+
+Enter the string : Hello
+The String is not a palindrome
+```
+
+</details>
+
 ---
 
 ## 🚀 Getting Started
@@ -334,7 +395,7 @@ java -cp first-java Fibonacii
 
 | 📦 Total Modules | ✅ Completed | 🔄 In Progress | ☕ Java Files |
 |:---:|:---:|:---:|:---:|
-| **18** | **1** | **1** | **12** |
+| **18** | **1** | **1** | **14** |
 
 <br/>
 
@@ -401,7 +462,7 @@ java -cp first-java Fibonacii
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Krishna+Sahoo;Java+learner+•+DSA+grinder+•+Future+SWE;Building+consistency%2C+one+commit+at+a+time+💪;7+programs+written+•+12+files+total+•+∞+to+go!&v=2" alt="Author intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Krishna+Sahoo;Java+learner+•+DSA+grinder+•+Future+SWE;Building+consistency%2C+one+commit+at+a+time+💪;9+programs+written+•+14+files+total+•+∞+to+go!&v=2" alt="Author intro" />
 
 <br/>
 
